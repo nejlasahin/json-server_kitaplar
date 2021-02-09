@@ -2,7 +2,7 @@
     "kitaplar": [{
             "id": 1,
             "ad": "1984",
-            "resim": "https://github.com/nejlasahin/json-server_kitaplar/tree/main/images/1984.jpg",
+            "resim": "https://github.com/nejlasahin/json-server_kitaplar/blob/main/images/1984.jpg",
             "ozet": "George Orwell’in kült kitabı Bin Dokuz Yüz Seksen Dört, yazarın geleceğe ilişkin bir kâbus senaryosudur. Bireyselliğin yok edildiği, zihnin kontrol altına alındığı, insanların makineleşmiş kitlelere dönüştürüldüğü totaliter bir dünya düzeni, romanda inanılmaz bir hayal gücüyle, en ince ayrıntısına kadar kurgulanmıştır. Geçmişte ve günümüzde dünya sahnesinde tezgâhlanan oyunlar düşünüldüğünde, ütopik olduğu kadar gerçekçi bir romandır Bin Dokuz Yüz Seksen Dört. Güncelliğini hiçbir zaman yitirmeyen bir başyapıttır; yalnızca yarına değil, bugüne de ilişkin bir uyarı çığlığıdır.",
             "yazar": "George Orwell",
             "yayinevi": "Can yayınları",
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "ad": "Körlük",
-            "resim": "https://github.com/nejlasahin/json-server_kitaplar/tree/main/images/korluk.jpg",
+            "resim": "https://github.com/nejlasahin/json-server_kitaplar/blob/main/images/korluk.jpg",
             "ozet": "Körlük, ürkütücü bir roman, beklenmedik bir felaketi yaşayan bir toplumun nasıl çöktüğünün, nasıl bencilleştiğinin ve değer yargılarını yitirdiğinin hikâyesi. Konusunun ürkütücülüğüne rağmen olağanüstü bir şiirsellikle anlatılmış bu unutulmaz roman, usta yazarın belki de en etkileyici yapıtı.",
             "yazar": "José Saramago",
             "yayinevi": "Kırmızı kedi yayınevi",
@@ -28,7 +28,7 @@
         {
             "id": 3,
             "ad": "Bir İdam Mahkûmunun Son Günü",
-            "resim": "https://github.com/nejlasahin/json-server_kitaplar/tree/main/images/mahkum.jpg",
+            "resim": "https://github.com/nejlasahin/json-server_kitaplar/blob/main/images/mahkum.jpg",
             "ozet": "“Giyotin en acısız ölüm şekliymiş. Oysa bedensel acı, ruhsal acının yanında hiç kalır. Belki günü geldiğinde, zavallı bir insanın bu son sözleri, payına düşeni yapacaktır.” “Tanrım bir kaçabilsem! Lütfen bana bir şans ver! Kaçmam gerek! Hem de hemen! Kapılardan, pencerelerden, çatıdan! Nereden olursa olsun!”",
             "yazar": "Victor Hugo",
             "yayinevi": "İş Bankası Kültür Yayınları",
