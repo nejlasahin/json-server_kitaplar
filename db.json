@@ -24,6 +24,19 @@
             "sayfa": "228",
             "dil": "Portekizce"
 
+        },
+        {
+            "id": 3,
+            "ad": "Bir İdam Mahkûmunun Son Günü",
+            "resim": "assets/mahkum.jpg",
+            "ozet": "“Giyotin en acısız ölüm şekliymiş. Oysa bedensel acı, ruhsal acının yanında hiç kalır. Belki günü geldiğinde, zavallı bir insanın bu son sözleri, payına düşeni yapacaktır.”“Tanrım bir kaçabilsem! Lütfen bana bir şans ver! Kaçmam gerek! Hem de hemen! Kapılardan, pencerelerden, çatıdan! Nereden olursa olsun!”",
+            "yazar": "Victor Hugo",
+            "yayinevi": "İş Bankası Kültür Yayınları",
+            "tarih": "1829",
+            "tur": "Roman, Kurgu, Romantizm",
+            "sayfa": "85",
+            "dil": "Fransızca"
+
         }
     ]
 }
