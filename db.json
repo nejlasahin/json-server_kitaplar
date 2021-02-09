@@ -108,18 +108,6 @@
             "tur": "Kurgu, Aşk Romanı, Gizem",
             "sayfa": "330",
             "dil": "Türkçe"
-        },
-        {
-            "id": 10,
-            "ad": "Monte Cristo Kontu",
-            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/monte.jpg",
-            "ozet": "İftiraya uğrayan Denizci Edmond Dantès, bu şüphe girdabında sevgilisi Mercedes’i, babasını, özgürlüğünü bir anda kaybeder. Acı, korkunç tecrübelerle dolu bu dönemden kaderin cilvesi ve azimle çıkmayı başarır. Artık güçlü, bilgili ve zengin biridir ve aklında tek bir şey vardır: Tanrı’nın adaletinin gereğini yapmak. Doğu’dan gelmiş gizemli bir kont kılığında bir intikam meleği gibi Paris sosyetesinin üzerinde dolaşır ama intikamı yalnızca düşmanlarının değil masumların hayatını da değiştirecektir.",
-            "yazar": "Alexandre Dumas",
-            "yayinevi": "Alfa Yayıncılık",
-            "tarih": "1844",
-            "tur": "Roman, Aşk Romanı, Tarihî Kurgu, Macera, Seri",
-            "sayfa": "1440",
-            "dil": "Fransızca"
         }
     ]
 }
