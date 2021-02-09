@@ -1,0 +1,29 @@
+{
+    "kitaplar": [{
+            "id": 1,
+            "ad": "1984",
+            "resim": "assets/1984.jpg",
+            "ozet": "George Orwell’in kült kitabı Bin Dokuz Yüz Seksen Dört, yazarın geleceğe ilişkin bir kâbus senaryosudur. Bireyselliğin yok edildiği, zihnin kontrol altına alındığı, insanların makineleşmiş kitlelere dönüştürüldüğü totaliter bir dünya düzeni, romanda inanılmaz bir hayal gücüyle, en ince ayrıntısına kadar kurgulanmıştır. Geçmişte ve günümüzde dünya sahnesinde tezgâhlanan oyunlar düşünüldüğünde, ütopik olduğu kadar gerçekçi bir romandır Bin Dokuz Yüz Seksen Dört. Güncelliğini hiçbir zaman yitirmeyen bir başyapıttır; yalnızca yarına değil, bugüne de ilişkin bir uyarı çığlığıdır.",
+            "yazar": "George Orwell",
+            "yayinevi": "Can yayınları",
+            "tarih": "1949",
+            "tur": "Bilim Kurgu, Sosyal Bilim Kurgu, Politik Kurgu, Distopik Kurgu",
+            "sayfa": "328",
+            "dil": "İngilizce"
+
+        },
+        {
+            "id": 2,
+            "ad": "Körlük",
+            "resim": "assets/korluk.jpg",
+            "ozet": "Körlük, ürkütücü bir roman, beklenmedik bir felaketi yaşayan bir toplumun nasıl çöktüğünün, nasıl bencilleştiğinin ve değer yargılarını yitirdiğinin hikâyesi. Konusunun ürkütücülüğüne rağmen olağanüstü bir şiirsellikle anlatılmış bu unutulmaz roman, usta yazarın belki de en etkileyici yapıtı.",
+            "yazar": "José Saramago",
+            "yayinevi": "Kırmızı kedi yayınevi",
+            "tarih": "1995",
+            "tur": "Roman, Alegori, Kıyamet Sonrası Bilim Kurgusu",
+            "sayfa": "228",
+            "dil": "Portekizce"
+
+        }
+    ]
+}
