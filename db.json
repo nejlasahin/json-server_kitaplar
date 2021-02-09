@@ -36,7 +36,6 @@
             "tur": "Roman, Kurgu, Romantizm",
             "sayfa": "85",
             "dil": "Fransızca"
-
         },
         {
             "id": 4,
@@ -49,7 +48,6 @@
             "tur": "Roman, Drama, Hiciv, Bilim Kurgu, Kara Mizah, Uzun hikâye, Aksiyon, Distopik Kurgu",
             "sayfa": "171",
             "dil": "İngilizce"
-
         },
         {
             "id": 5,
@@ -62,7 +60,6 @@
             "tur": "Roman, Fabl, Drama, Serüven, Fantastik Kurgu, Macera",
             "sayfa": "184",
             "dil": "Portekizce"
-
         },
         {
             "id": 6,
@@ -75,7 +72,6 @@
             "tur": "Roman, Bilim Kurgu, Politik Kurgu, Distopik Kurgu",
             "sayfa": "208",
             "dil": "İngilizce"
-
         },
         {
             "id": 7,
@@ -88,7 +84,6 @@
             "tur": "Aşk Romanı, Çağdaş Roman, Romantik Fantezi",
             "sayfa": "80",
             "dil": "Almanca"
-
         },
         {
             "id": 8,
@@ -101,7 +96,6 @@
             "tur": "Aşk Romanı, Kurgu, Hiciv, Görgü Romanı",
             "sayfa": "408",
             "dil": "İngilizce"
-
         },
         {
             "id": 9,
@@ -114,7 +108,6 @@
             "tur": "Kurgu, Aşk Romanı, Gizem",
             "sayfa": "330",
             "dil": "Türkçe"
-
         },
         {
             "id": 10,
@@ -127,7 +120,6 @@
             "tur": "Roman, Aşk Romanı, Tarihî Kurgu, Macera, Seri",
             "sayfa": "1440",
             "dil": "Fransızca"
-
         }
     ]
 }
