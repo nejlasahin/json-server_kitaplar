@@ -36,7 +36,42 @@
             "tur": "Roman, Kurgu, Romantizm",
             "sayfa": "85",
             "dil": "Fransızca"
-
+        },
+        {
+            "id": 4,
+            "ad": "Otomatik Portakal",
+            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/otomatikportakal.jpg",
+            "ozet": "“Tüm hayvanların en zekisi, iyiliğin ne demek olduğunu bilen insanoğluna bir baskı yöntemi uygulayarak onu otomatik işleyen bir makine haline getirenlere kılıç kadar keskin olan kalemimle saldırmaktan başka hiçbir şey yapamıyorum…” Karabasan gibi bir gelecek atmosferi… Geceleyin sokakları terörize eden, yaşamları şiddet üzerine kurulu gençler ve bu hikâyenin anti-kahramanı Alex... Yayımlandığı günden bu yana “kült roman” özelliğini kaybetmeyen Otomatik Portakal’ın 15 yaşındaki kahramanı, “iyi ya da kötü nedir?”, “İnsan özgür iradesiyle kaderini seçebilir mi?” gibi soruların yanıtlarını kurcalarken, şiddet dolu sahnelere Beethoven’ın, Mozart’ın müziği eşlik ediyor; Alex ve “çete kardeşleri” Pete, Georgie ve Aptalof, yarattıkları yepyeni dilin kelimelerini okurun zihnine kazıyorlar. Ünlü yönetmen Stanley Kubrick tarafından 1971’de filme de çekilen Otomatik Portakal tüm zamanların en sarsıcı romanlarından. “Cockney dilinde (İngiliz argosu) bir deyiş vardır. ‘Uqueer as as clockwork orange’. Bu deyiş, olabilecek en yüksek derecede gariplikleri barındıran kişi anlamına gelir. Bu çok sevdiğim lafı, yıllarca bir kitap başlığında kullanmayı düşünmüşümdür. Bir de tabii Malezya’da ‘canlı’ anlamına gelen ‘orang’ sözcüğü var. Kitabı yazmaya başladığımda, rengi ve kokusu hoş bir meyvenin kullanıldığı bu deyişin, tam da anlatmak istediğim duruma, Pavlov kanunlarının uygulanmasına dayalı bir hikâyeye çok iyi oturduğunu düşündüm.”",
+            "yazar": "Anthony Burgess",
+            "yayinevi": "İş Bankası Kültür Yayınları",
+            "tarih": "1962",
+            "tur": "Roman, Drama, Hiciv, Bilim Kurgu, Kara Mizah, Uzun hikâye, Aksiyon, Distopik Kurgu",
+            "sayfa": "171",
+            "dil": "İngilizce"
+        },
+        {
+            "id": 5,
+            "ad": "Simyacı",
+            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/simyaci.jpg",
+            "ozet": "Simyacı, Brezilyalı eski şarkı sözü yazarı Paulo Coelho'nun, yayınlandığı 1988 yılından bu yana dünyayı birbirine katan, eleştirmenler tarafından bir `fenomen' olarak değerlendirilen üçüncü romanı. Simyacı, altı yılda kırk iki ülkede yedi milyondan fazla sattı. Bu, Gabriel Garcia Marquez'den bu yana görülmemiş bir olay. Yüreğinde, çocukluğunu yitirmemiş olan okurlar için bir `klasik' kimliği kazanan Simyacı'yı Saint-Exupery'nin Küçük Prens'i ve Richard Bach'ın Martı Jonathan Livingston'u ile karşılaştıranlar var (Publishers Weekly). Simyacı, İspanya'dan kalkıp Mısır Piramitlerinin eteklerinde hazinesini aramaya giden Endülüslü çoban Santiago'nun masalsı yaşamının felsefi öyküsü. Sanki bir `nasihatnâme': `Yazgına nasıl egemen olacaksın, mutluluğunu nasıl kuracaksın?' sorularına yanıt arayan bir hayat ve ahlak kılavuzu. Mistik bir peri masalına benzeyen romanın altı yılda, yedi milyondan fazla okur bulmasının gizi, kuşkusuz, onun bu kılavuzluk niteliğinden kaynaklanıyor. Simyacı'yı okumak, herkes daha uykudayken, güneşin doğuşunu seyretmek için şafak vakti uyanmaya benziyor.",
+            "yazar": "Paulo Coelho",
+            "yayinevi": "Can Yayınları",
+            "tarih": "1988",
+            "tur": "Roman, Fabl, Drama, Serüven, Fantastik Kurgu, Macera",
+            "sayfa": "184",
+            "dil": "Portekizce"
+        },
+        {
+            "id": 6,
+            "ad": "Fahrenheit 451",
+            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/fahrenheit.jpg",
+            "ozet": "Guy Montag bir itfaiyeciydi. Televizyonun hüküm sürdüğü bu dünyada kitaplar ise yok olmak üzereydi zira itfaiyeciler yangın söndürmek yerine ortalığı ateşe veriyordu. Montag’ın işi ise yasadışı olanların en tehlikelisini yakmaktı: Kitapları. Montag yaptığı işi tek bir gün dahi sorgulamamıştı ve tüm gününü televizyonla kaplı odalarda geçiren eşi Mildred’la beraber yaşıyordu. Ancak yeni komşusu Clarisse’le tanışmasıyla tüm hayatı değişti. Kitapların değerini kavramaya başlayan Montag artık tüm bildiklerini sorgulayacaktı. İnsanların uğruna canlarını feda etmeyi göze aldığı bu kitapların içinde ne vardı? Gerçeklerin farkına vardıktan sonra bu karanlık toplumda artık yaşanabilir miydi?",
+            "yazar": "Ray Bradbury",
+            "yayinevi": "İthaki Yayınları",
+            "tarih": "1953",
+            "tur": "Roman, Bilim Kurgu, Politik Kurgu, Distopik Kurgu",
+            "sayfa": "208",
+            "dil": "İngilizce"
         }
     ]
 }
