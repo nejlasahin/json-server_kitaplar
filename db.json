@@ -72,42 +72,6 @@
             "tur": "Roman, Bilim Kurgu, Politik Kurgu, Distopik Kurgu",
             "sayfa": "208",
             "dil": "İngilizce"
-        },
-        {
-            "id": 7,
-            "ad": "Olağanüstü Bir Gece",
-            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/gece.jpg",
-            "ozet": "Olağanüstü Bir Gece, seçkin bir burjuva olarak rahat ve tasasız varoluşunu sürdürürken giderek duyarsızlaşan bir adamın hayatındaki dönüştürücü deneyimin hikâyesidir. Sıradan bir Pazar gününü at yarışlarında geçirirken, belki de ilk kez burjuva ahlakından saparak “suç” işler. Böylece yeniden “hissetmeye” başladığını, kötücül ve ateşli hazları olan gerçek bir insan olduğunu fark eder. İçindeki haz dolu esrime, aynı günün akşamında onu gece âleminin son atıklarının arasına, “hayatın en dibindeki lağımlara” sürükleyecek, varış noktası ise ruhani bir uyanış olacaktır.",
-            "yazar": "Stefan Zweig",
-            "yayinevi": "İş Bankası Kültür Yayınları",
-            "tarih": "1922",
-            "tur": "Aşk Romanı, Çağdaş Roman, Romantik Fantezi",
-            "sayfa": "80",
-            "dil": "Almanca"
-        },
-        {
-            "id": 8,
-            "ad": "Gurur ve Önyargı",
-            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/gururveonyargı.jpg",
-            "ozet": "Elizabeth Bennet, zengin ve bekâr Fitzwilliam Darcy ile ilk tanıştığında onu kendini beğenmiş ve kibirli bulur. Darcy de genç kadının güzelliğinden ve bağımsız tavrından etkilenmemiş gibidir; üstelik en yakın arkadaşının Elizabeth’in ablası ile evlenmesine de karşıdır. Balo salonlarından nehir kenarı pikniklerine, taşra evlerinden ihtişamlı malikânelere uzanan hikâyede izlenimler ve duygular beklenmedik şekillerde değişecektir. Austen’ın “biricik çocuğum” diye andığı Gurur ve Önyargı, toprak sahibi taşralı sınıfın yaşam biçimini, görgü kurallarını ve dedikodularını eşsiz bir mizah duygusu ile ele alıyor.",
-            "yazar": "Jane Austen",
-            "yayinevi": "İş Bankası Kültür Yayınları",
-            "tarih": "1813",
-            "tur": "Aşk Romanı, Kurgu, Hiciv, Görgü Romanı",
-            "sayfa": "408",
-            "dil": "İngilizce"
-        },
-        {
-            "id": 9,
-            "ad": "Kardeşimin Hikayesi",
-            "resim": "https://raw.githubusercontent.com/nejlasahin/json-server_kitaplar/main/images/kardes.jpg",
-            "ozet": "Mantıksız gibi geliyor ama o sabah uyandığımda tuhaf bir haber alacağımı biliyordum. Karadeniz’in lacivert dalgalarıyla baş başa kalmış olan bu ıssız köyde geçen her gün birbirinin aynısı olduğu için burada insanların heyecanla konuşacağı olaylara pek sık rastlanmazdı. O günün de ötekiler gibi sessizce akıp gitmesi gerekirdi ama galiba başka şeyler olacaktı. O mahmur sabah saatlerinde bir cinayet haberi alacağımı bilmiyordum elbette ama bir haber gelecekti. Daha yataktan çıkmamıştım, gözlerim kapalıydı, arkalarında fosforlu çizgiler bırakarak yıldırım hızıyla hareket eden mor tavşanları izliyordum.",
-            "yazar": "Zülfü Livaneli",
-            "yayinevi": "Doğan Kitap",
-            "tarih": "2013",
-            "tur": "Kurgu, Aşk Romanı, Gizem",
-            "sayfa": "330",
-            "dil": "Türkçe"
         }
     ]
 }
