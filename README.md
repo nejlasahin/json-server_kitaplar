@@ -1,3 +1,3 @@
-# json-server_kitaplar
+# Rastgele Kitap Seçme Uygulaması İçin Oluşturulmuş Json Dosyası
 
-https://my-json-server.typicode.com/nejlasahin/json-server_kitaplar/db
+[Verilere erişmek için...](https://my-json-server.typicode.com/nejlasahin/json-server_kitaplar/kitaplar)
